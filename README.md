@@ -4,7 +4,7 @@ This repository reproduces and applies the algorithm described in:   **"A hybrid
 The hybrid particle swarm optimization (ALPSO) algorithm with an adaptive learning strategy was originally proposed in the referenced paper to enhance optimization performance and avoid premature convergence. This implementation independently reproduces the methodology detailed in the original paper and applies the algorithm to feature selection in biomedical research.
 
 ### Objectives:
-1. Validate the reproducibility of the HPSO algorithm as described in the original publication.
+1. Validate the reproducibility of the ALPSO algorithm as described in the original publication.
 2. Extend and adapt the algorithm to identifying key features in complex datasets for scientific research.
 3. Support findings and insights discussed in our forthcoming journal article, where the algorithm is applied in novel contexts.
 
