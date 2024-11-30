@@ -9,3 +9,4 @@ The hybrid particle swarm optimization (ALPSO) algorithm with an adaptive learni
 3. Support findings and insights discussed in our forthcoming journal article, where the algorithm is applied in novel contexts.
 
 This repository is provided for research and educational purposes only. The original algorithm and its theoretical development are credited to the authors of the referenced paper. Any modifications or enhancements specific to this reproduction are documented here.
+We request users to cite the original paper appropriately when utilizing this implementation.
